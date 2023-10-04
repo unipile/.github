@@ -24,15 +24,6 @@ To help you get started quickly, we have provided example applications that demo
 
 These example applications showcase best practices for integrating Unipile services and are valuable resources for developers.
 
-## Other Resources
-
-In addition to our SDKs and example applications, we offer a range of open-source products and developer tools:
-
-- [Unipile Components](https://github.com/unipile/unipile-components): Reusable components to enhance your Unipile-powered applications.
-- [Unipile CLI](https://github.com/unipile/unipile-cli): A command-line interface for managing Unipile services and resources.
-
-Feel free to explore these resources to enhance your Unipile development experience.
-
 ## Support and Feedback
 
 If you have any questions, encounter issues, or have suggestions for improvement, please don't hesitate to reach out to our support team or create GitHub issues in the respective repositories.
