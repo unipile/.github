@@ -11,7 +11,7 @@ Please visit our [official documentation](https://developer.unipile.com) for com
 We provide SDKs to help you integrate Unipile services into your applications. Choose from our official SDKs:
 
 - [Unipile PHP SDK](https://github.com/unipile/unipile-php-sdk)
-- [Unipile Node.js SDK](https://github.com/unipile/unipile-nodejs-sdk)
+- [Unipile Node.js SDK](https://github.com/unipile/unipile-node-sdk)
 
 These SDKs are designed to streamline the development process and provide easy access to Unipile's functionality.
 
